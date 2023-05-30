@@ -16,6 +16,6 @@ class EvenOdd2
 	}
 	public static void main(String[] args) 
 	{
-		num(1,10);
+		System.out.println(num(1,10));
 	}
 }
