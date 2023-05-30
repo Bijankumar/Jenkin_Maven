@@ -17,5 +17,6 @@ class EvenOdd2
 	public static void main(String[] args) 
 	{
 		System.out.println(num(1,10));
+		System.out.println(Successful);
 	}
 }
