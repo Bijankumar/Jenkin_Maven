@@ -4,7 +4,7 @@ class EvenOdd2
 	{
 		for (int i = no1;i<=no2 ;i++ )
 		{
-			if (i%2==0)
+			if (i%2==1)
 			{
 				return i;
 			}else 
